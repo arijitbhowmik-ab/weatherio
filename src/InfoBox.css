@@ -1,0 +1,9 @@
+.InfoBox{
+    width: 100%;
+    /* border: 5px solid red; */
+}
+.imgBox{
+    margin-top: 10px;
+    width: 400px;
+    border-radius: 10px;
+}

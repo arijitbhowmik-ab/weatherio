@@ -1,0 +1,14 @@
+.SearchBox{
+    text-align: center;
+}
+.inputBox{
+    /* height: 2rem; */
+    width: 280px;
+}
+#city{
+    border-radius: 10px;
+}
+.SearchBtn{
+    height: 3.4rem;
+    width: 110px;
+}
